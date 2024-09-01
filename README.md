@@ -4,7 +4,7 @@ This is the baseline of Financial Misinformation Detection (FMD) at Coling 2025
 
 ## Datasets
 
-- **Pratice data**: [Link](https://huggingface.co/datasets/lzw1008/COLING25-FMD/tree/main/practice_data)
+- **Practice data**: [Link](https://huggingface.co/datasets/lzw1008/COLING25-FMD/tree/main/practice_data)
 - **Complete train data**: TBD
 - **Test data**: TBD
 

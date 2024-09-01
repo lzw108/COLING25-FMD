@@ -1,6 +1,6 @@
 # COLING25-FMD
 
-This is the baseline of Financial Misinformation Detection (FMD) at Coling 2025
+This is the baseline of Financial Misinformation Detection ([FMD](https://coling2025fmd.thefin.ai/)) at Coling 2025
 
 ## Datasets
 

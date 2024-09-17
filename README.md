@@ -5,7 +5,7 @@ This is the baseline of Financial Misinformation Detection ([FMD](https://coling
 ## Datasets
 
 - **Practice data**: [Link](https://huggingface.co/datasets/lzw1008/COLING25-FMD/tree/main/practice_data)
-- **Complete train data**: TBD
+- **Complete train data**: [Link](https://huggingface.co/datasets/lzw1008/COLING25-FMD/tree/main/Training)
 - **Test data**: TBD
 
 ## Usage

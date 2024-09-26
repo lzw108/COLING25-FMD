@@ -2,6 +2,11 @@
 
 This is the baseline of Financial Misinformation Detection ([FMD](https://coling2025fmd.thefin.ai/)) at Coling 2025
 
+[Paper arXiv](https://www.arxiv.org/abs/2409.16452)
+
+## News
+📢 *Sep. 26, 2024* New preprint paper related to this work: "FMDLlama: Financial Misinformation Detection based on Large Language Models" at [arXiv](https://www.arxiv.org/abs/2409.16452).
+
 ## Datasets
 
 - **Practice data**: [Link](https://huggingface.co/datasets/lzw1008/COLING25-FMD/tree/main/practice_data)
@@ -46,3 +51,14 @@ Follow the *evaluation.ipynb* file to get F1, rouge, bertscore, and final score.
 ## License
 
 This project is licensed under [MIT]. Please find more details in the [MIT](LICENSE) file.
+
+## Citation
+
+```
+@article{liu2024fmdllama,
+  title={FMDLlama: Financial Misinformation Detection based on Large Language Models},
+  author={Liu, Zhiwei and Zhang, Xin and Yang, Kailai and Xie, Qianqian and Huang, Jimin and Ananiadou, Sophia},
+  journal={arXiv preprint arXiv:2409.16452},
+  year={2024}
+}
+```
